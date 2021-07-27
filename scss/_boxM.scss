@@ -1,0 +1,21 @@
+$paddingTB: 50px;
+$paddingL: 20px;
+$paddingLR: 10px;
+$paddingZERO: 0px;
+
+.container-fluid
+    {padding-left: $paddingZERO;
+    padding-right: $paddingZERO;
+}
+
+.paddingTB
+    {padding-top: $paddingTB;
+    padding-bottom: $paddingTB;
+}
+
+.footerBg
+    {padding-left: $paddingL
+}
+
+label
+    {padding-left: $paddingLR;}

@@ -1,0 +1,12 @@
+@mixin justify-end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar--derecha {
+    @include justify-end;
+}
+
+.navbar-brand {
+    padding-left: 10px;
+}
