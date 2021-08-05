@@ -7216,7 +7216,7 @@ label {
 .navbar-brand {
   padding-left: 10px; }
 
-  .float{
+.float{
     position:fixed;
     width:60px;
     height:60px;
@@ -7231,6 +7231,6 @@ label {
     z-index:100;
   }
   
-  .my-float{
+.my-float{
     margin-top:16px;
   }
